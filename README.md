@@ -1,7 +1,7 @@
 # SMX2-M8UF1A1-HistoriaWeb-1995-1996-JavaScript-VegaMaciasDani
 Repositorio sobre JavaScript
 
-##JavaScript
+## JavaScript
 
 Java Script es un lenguaje de programación creado en el año 1995 por Brendan Eich que nos permite crear paginas web, en ese programa podremos encontrar HTML que es su estructura y CSS que le da forma. Algunas de las funciones que se pueden hacer en este lenguaje es cambiar de color algunos textos o mover imágenes.
 
